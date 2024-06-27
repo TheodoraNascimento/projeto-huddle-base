@@ -2,7 +2,7 @@
 
 Desafio do devquest para HTML e CSS frontend
 
-[<img src"./src/images/desafio-oage.png">] 
+https://theodoranascimento.github.io/projeto-huddle-base/
 
 ## Tecnologias utilizadas:
 
