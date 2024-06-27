@@ -1,0 +1,76 @@
+
+
+
+@media(max-width:650px){
+    .container{
+        background-image: url(../images/bg-mobile.svg);
+        background-repeat: no-repeat; 
+      }
+
+
+    .container .header .logo img{
+       width: 120px;
+       text-align: center;
+    }
+
+   .container .main .muckups img{
+        width: 300px;
+    }
+ 
+    .container .main .register-info{
+    justify-content: center;
+    margin: 30px;
+    padding: 0;
+    }
+    .container .main .register-info h2{
+     text-align: center;
+    }
+
+    .container .main .register-info p{
+        margin: 0;
+        padding: 20px;
+        text-align: center;
+        max-width: none;
+    }
+
+    .container .main .register-info .register-btn{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 50%); 
+ 
+   }
+
+    .container .footer .social-links{
+       justify-content: center;
+       margin-right: 0;
+       margin-top: 80px;
+       
+    }
+
+}
+
+@media(max-width: 1130px){
+
+
+    .container .main .register-info .register-btn{
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, 0); 
+     
+       }
+
+    .container .main .register-info p{
+        margin-bottom: 10px;
+        padding-bottom: 20px;
+       
+    }
+
+
+    .container .footer .social-links{
+        justify-content: center;
+        margin-right: 0;
+        margin-top: 80px;
+        
+     }
+
+}
